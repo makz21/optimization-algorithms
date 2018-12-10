@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ServerExample.iml" filepath="$PROJECT_DIR$/ServerExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/optimization-algorithms.iml" filepath="$PROJECT_DIR$/optimization-algorithms.iml" />
     </modules>
   </component>
 </project>
